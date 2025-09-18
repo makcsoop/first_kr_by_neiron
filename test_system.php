@@ -1,8 +1,8 @@
 <?php
 // test_system.php
 
-//require_once 'solution.php';
-//require_once 'correct_solution.php';
+
+require_once 'correct_solution.php';
 
 class TestSystem {
     
